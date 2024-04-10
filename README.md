@@ -1,4 +1,4 @@
-# basic-calculator
+# Basic-calculator
 created a basic calculator using html,css,javascript
 it is a functional calculator which performs arthimetic operations such as addition,subtraction,multiplication,division.
 
