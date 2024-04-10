@@ -7,7 +7,8 @@ Addition: Perform addition of two numbers.
 Subtraction: Perform subtraction of two numbers.
 Multiplication: Perform multiplication of two numbers.
 Division: Perform division of two numbers.
-Clear Button: Clear the calculator display to start a new calculation
+Clear Button: Clear the calculator display to start a new calculation.
+Del Button : Deletes the last entered number.
 
 # Usage
 Simply enter the numbers you want to calculate using the number buttons, 
